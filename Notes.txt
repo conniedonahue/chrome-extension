@@ -1,0 +1,23 @@
+STRATEGY:
+
+Goal: create a like and subscribe button -- 1 stop shop
+
+
+1 - fill out the manifest
+    a - description
+    // if scripts aren't firing, try [./main.js]
+
+
+2- Like and subscribe on main.js
+
+3- style for button
+
+4 - icon
+
+5 - flesh out pop up window
+
+6 - any other additional functionality
+
+
+
+//HARD OUT 11PM

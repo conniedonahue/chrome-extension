@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Like and Subscribe",
+    "version": "1.4",
+    "description": "Support your favorite creators by liking and subscribing with one click!",
+    
+    "content_scripts" : [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["./main.js"] 
+        }
+    ],
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Click Me!"
+    }
+
+}
+
+
